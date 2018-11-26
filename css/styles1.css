@@ -1,0 +1,79 @@
+.nav {
+
+  display: inline-flex;
+  list-style: none;
+  margin: 10px;
+  word-spacing: 1px;
+  font-size: 20px;
+  padding-top: 15px;
+  padding-right: 44px;
+  padding-bottom: 15px;
+  padding-left: 18px;
+  text-align: center;
+  font-family: fantasy;
+}
+
+.nav li {
+  margin-left: 16px;
+  margin-top:10px;
+}
+
+h1 {
+  font-size: 36px;
+  font-family: fantasy;
+}
+
+#p1 {
+  font-size: 18px;
+  font-family: fantasy;
+}
+
+.nav_div1 {
+border: 1px solid white;
+margin-top: 20px;
+text-align: center;
+padding-top: 50px;
+padding-right: 180px;
+padding-bottom: 10px;
+padding-left: 180px;
+}
+
+.nav_div2 {
+  text-align: center;
+}
+
+.a_style {
+  border: 1px solid white;
+  margin-top: 20px;
+  text-align: center;
+  padding-top: 30px;
+  padding-right: 180px;
+  padding-bottom: 50px;
+  padding-left: 180px;
+  text-align: center;
+  font-family: fantasy;
+  font-size: 20px;
+  }
+
+h2 {
+  font-size: 22px;
+  font-family: fantasy;
+}
+
+/*fix the one below*/
+img {
+    max-width: 100%;
+    height: auto;
+    margin-top: auto;
+    display: block;
+    align-items: center;
+
+}
+
+.food_photos {
+  max-width: 25%;
+  display: inline-flex;
+  align-items: center;
+    margin: 0 auto;
+    
+}
