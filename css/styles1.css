@@ -75,5 +75,12 @@ img {
   display: inline-flex;
   align-items: center;
     margin: 0 auto;
-    
+
+}
+
+#head_list {
+  font-family: sans-serif;
+  font-size: 20px;
+  display: inline;
+  list-style-type: none;
 }
