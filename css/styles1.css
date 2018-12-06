@@ -60,6 +60,19 @@ h2 {
   font-family: fantasy;
 }
 
+#email_icon {
+  width: 100%;
+  height: auto;
+  align-items: center;
+  margin-top: auto;
+  width: 70px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  position: absolute;
+  
+
+}
+
 /*fix the one below*/
 img {
     max-width: 100%;
@@ -89,4 +102,5 @@ img {
   font-size: 18px;
   font-family: fantasy;
   text-align: center;
+  margin-bottom: 100px;
 }
