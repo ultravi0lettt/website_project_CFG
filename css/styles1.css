@@ -84,3 +84,9 @@ img {
   display: inline;
   list-style-type: none;
 }
+
+#signup {
+  font-size: 18px;
+  font-family: fantasy;
+  text-align: center;
+}
