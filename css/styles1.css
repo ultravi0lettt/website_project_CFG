@@ -23,6 +23,12 @@ li {
   margin-right: 30px;
 }
 
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
 h1 {
   font-size: 36px;
   font-family: fantasy;
