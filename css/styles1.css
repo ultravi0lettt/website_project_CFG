@@ -18,6 +18,13 @@
   margin-top:10px;
 }
 
+li {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
 h1 {
   font-size: 36px;
   font-family: fantasy;
@@ -55,10 +62,25 @@ padding-left: 180px;
   font-size: 20px;
   }
 
+#main_container {
+
+    width: 1000px;
+    height: 10px;
+    width: 650px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    position: relative;
+    text-align: center;
+}
+
+
+
 h2 {
   font-size: 22px;
   font-family: fantasy;
 }
+
+
 
 /*fix the one below*/
 img {
@@ -70,10 +92,49 @@ img {
 
 }
 
-.food_photos {
+#email_icon {
+  width: 100%;
+  height: auto;
+  margin-top: auto;
+  width: 70px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: auto;
+  margin-left: auto;
+
+}
+
+
+/*make photos in center*/
+#food_photos {
   max-width: 25%;
   display: inline-flex;
+  text-align: center;
+    margin-right: auto;
+  margin-left: auto;
+  display: flex;
   align-items: center;
-    margin: 0 auto;
-    
+  justify-content: center;
+
+
+}
+
+#head_list {
+  display: inline-flex;
+  list-style-type: none;
+  spacing: 20px;
+  text-align: center;
+  font-family: fantasy;
+  font-size: 22px;
+  background: solid grey;
+}
+
+#signup {
+  font-size: 18px;
+  font-family: fantasy;
+  text-align: center;
+  margin-bottom: 100px;
 }
