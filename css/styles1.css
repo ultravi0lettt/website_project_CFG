@@ -23,22 +23,9 @@ li {
   margin-right: 30px;
 }
 
-a:hover {
-  color: red;
-  background-color: transparent;
-  text-decoration: underline;
-}
 
-h1 {
-  font-size: 36px;
-  font-family: fantasy;
-  text-align: center;
-}
 
-#p1 {
-  font-size: 20px;
-  font-family: fantasy;
-}
+
 
 .nav_div1 {
 border: 1px solid white;
@@ -71,15 +58,7 @@ font-size: 20px;
   font-size: 20px;
   }
 
-#main_container {
-    width: 1000px;
-    height: 10px;
-    width: 650px;
-    margin-top: 20px;
-    margin-bottom: 20px;
-    position: relative;
-    text-align: center;
-}
+
 
 
 
@@ -97,6 +76,19 @@ img {
     align-items: center;
 }
 
+
+
+h1 {
+  font-size: 36px;
+  font-family: fantasy;
+  text-align: center;
+}
+
+#p1 {
+  font-size: 20px;
+  font-family: fantasy;
+}
+
 #email_icon {
   width: 100%;
   height: auto;
@@ -109,9 +101,17 @@ img {
   justify-content: center;
   margin-right: auto;
   margin-left: auto;
-
 }
 
+#main_container {
+    width: 1000px;
+    height: 10px;
+    width: 650px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    position: relative;
+    text-align: center;
+}
 
 
 #food_photos {
