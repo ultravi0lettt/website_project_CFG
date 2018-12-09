@@ -26,6 +26,7 @@ li {
 h1 {
   font-size: 36px;
   font-family: fantasy;
+  text-align: center;
 }
 
 #p1 {
@@ -42,6 +43,7 @@ padding-right: 100px;
 padding-bottom: 60px;
 padding-left: 100px;
 font-family: fantasy;
+font-size: 20px;
 }
 
 .nav_div2 {
@@ -64,7 +66,6 @@ font-family: fantasy;
   }
 
 #main_container {
-
     width: 1000px;
     height: 10px;
     width: 650px;
