@@ -39,7 +39,7 @@ margin-top: 20px;
 text-align: center;
 padding-top: 10px;
 padding-right: 100px;
-padding-bottom: 10px;
+padding-bottom: 60px;
 padding-left: 100px;
 font-family: fantasy;
 }
@@ -82,15 +82,12 @@ h2 {
 }
 
 
-
-/*fix the one below*/
 img {
     max-width: 100%;
     height: auto;
     margin-top: auto;
     display: block;
     align-items: center;
-
 }
 
 #email_icon {
@@ -109,7 +106,7 @@ img {
 }
 
 
-/*make photos in center*/
+
 #food_photos {
   max-width: 25%;
   display: inline-flex;
@@ -119,8 +116,17 @@ img {
   display: flex;
   align-items: center;
   justify-content: center;
+}
 
-
+#head_image {
+  max-width: 80%;
+  display: inline-flex;
+  text-align: center;
+  margin-right: auto;
+  margin-left: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 #head_list {
