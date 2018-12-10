@@ -110,15 +110,14 @@ img {
 
 /*make photos in center*/
 #food_photos {
-  max-width: 25%;
-  display: inline-flex;
-  text-align: center;
+    max-width: 25%;
+    display: inline-flex;
+    text-align: center;
     margin-right: auto;
-  margin-left: auto;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-
+    margin-left: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 
 }
 
@@ -138,3 +137,5 @@ img {
   text-align: center;
   margin-bottom: 100px;
 }
+
+.mySlides {display:none;}
