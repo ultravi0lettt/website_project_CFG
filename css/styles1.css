@@ -2,7 +2,7 @@
 
   display: inline-flex;
   list-style: none;
-  margin: 10px;
+  margin: 7px;
   word-spacing: 1px;
   font-size: 24px;
 
@@ -141,10 +141,10 @@ h1 {
 #head_list {
   display: inline-flex;
   list-style-type: none;
-  spacing: 20px;
+  spacing: 18px;
   text-align: center;
   font-family: fantasy;
-  font-size: 22px;
+  font-size: 21px;
   background: solid grey;
 }
 
